@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702316267 source:c:\users\savionei louzada\documents\clone hero\teste\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
